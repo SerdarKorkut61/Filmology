@@ -14,6 +14,8 @@
     @include("layouts.front.header")
     @include("layouts.front.navbar")
 
+    @yield("icerik")
+
     @include("layouts.front.footer")
 
 
