@@ -1,0 +1,33 @@
+/* .header_container .container{
+    border: solid 1px white;
+} */
+
+*{
+    border: solid 1px white;
+}
+
+header, header nav{
+    background-color: #333333;
+}
+
+.logo{
+    width: 150px;
+}
+
+.header_options .nav-link{
+    color: white;
+}
+
+.header_options .nav-link:hover{
+    border-bottom: solid 1px white;
+}
+
+.profile_icon i{
+    color:white;
+    font-size:45px;
+}
+
+.dark_light_icons i{
+    color:white;
+    font-size:20px;
+}
